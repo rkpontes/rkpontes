@@ -1,19 +1,6 @@
 ## Eu sou o Raphael Pontes 
- <div>
-  <a href="https://github.com/rkpontes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkpontes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkpontes&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rkpontes-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Rkpontes-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Rkpontes-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rkpontes-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rkpontes-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rkpontes-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-    <img align="center" alt="Rkpontes-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="right" alt="Rkpontes-profile" width="120" src="https://lh3.googleusercontent.com/a-/AOh14GhQv_pTfnCUCnfyF5uUCoJaFDv3WzEfA0mMubXVGg=s600-k-no-rp-mo">
-</div>
+ ![rkpontes's Stats](https://github-readme-stats.vercel.app/api?username=rkpontes&theme=dark&show_icons=true&hide_border=true&count_private=false)
+
   
   ##
  
