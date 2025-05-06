@@ -40,5 +40,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelkennedy/)](https://www.linkedin.com/in/raphaelkennedy/)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/rkpontes/rkpontes)
+[![LinkedIn](https://img.shields.io/badge/-Raphael%20Pontes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelkennedy/)
+[![GitHub Followers](https://img.shields.io/github/followers/rkpontes?label=GitHub&style=social)](https://github.com/rkpontes)
