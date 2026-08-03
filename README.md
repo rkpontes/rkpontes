@@ -6,7 +6,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Pós-graduado em Desenvolvimento Mobile no IFPI.
-- 💼 Trabalhando como desenvolvedor Flutter especialista na Exa.
+- 💼 Trabalhando como desenvolvedor Especialista.
 - 🚀 Criador da empresa [betacoding.com.br](https://betacoding.com.br), focada em desenvolvimento sob medida e soluções digitais.
 - 🧠 Desenvolvendo o SaaS [leapha.com](https://leapha.com), um clube de assinaturas para criadores de conteúdo.
 - 🌱 Aprendendo mais sobre infraestrutura em nuvem, automações com Terraform e estratégias de monetização para SaaS.
